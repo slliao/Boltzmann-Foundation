@@ -13,13 +13,15 @@ pages:
   url: doc
 - title: Masterclass
   url: masterclass
-- title: Tutorials
-  url: https://plumed-school.github.io
+#- title: Tutorials
+#  url: https://plumed-school.github.io
 # - title: Forum
 #   url: forum
-- title: Cite
-  url: cite
-- title: Funds
-  url: funding
+#- title: Cite
+#  url: cite
+#- title: Funds
+#  url: funding
 - title: Blog
   url: blogpost
+- title: Plumed
+  url: https://www.plumed.org/
