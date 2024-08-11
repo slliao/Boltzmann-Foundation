@@ -1,0 +1,25 @@
+pages:
+- title: Home
+  url: /
+#- title: News
+#  url: news
+- title: People
+  url: people
+- title: NEST
+  url: nest
+- title: Download
+  url: download
+- title: Manuals
+  url: doc
+- title: Masterclass
+  url: masterclass
+- title: Tutorials
+  url: https://plumed-school.github.io
+# - title: Forum
+#   url: forum
+- title: Cite
+  url: cite
+- title: Funds
+  url: funding
+- title: Blog
+  url: blogpost
