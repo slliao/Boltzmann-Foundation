@@ -24,9 +24,7 @@ layout: default
     {{ content }}
   </div>
 
-<footer class="post-footer">
-  <p class="post-date">Published on: {{ page.date | date: "%B %d, %Y" }}</p>
-</footer>
+<p class="post-date">Published on: {{ page.date | date: "%B %d, %Y" }}</p>
 
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
