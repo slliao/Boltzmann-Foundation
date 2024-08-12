@@ -5,14 +5,14 @@ pages:
 #  url: news
 - title: People
   url: people
-- title: NEST
-  url: nest
-- title: Download
-  url: download
-- title: Manuals
-  url: doc
-- title: Masterclass
-  url: masterclass
+#- title: NEST
+#  url: nest
+#- title: Download
+#  url: download
+#- title: Manuals
+#  url: doc
+#- title: Masterclass
+#  url: masterclass
 #- title: Tutorials
 #  url: https://plumed-school.github.io
 # - title: Forum
