@@ -5,20 +5,27 @@ layout: default
 <div id="post-list">
   {% for post in site.posts %}
     <div class="post-preview">
+      <h2 class="post-title-with-date">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
+      </h2>
+      <p>{{ post.excerpt | markdownify | strip_html | truncate: 200 }}</p>
+    </div>
+  {% endfor %}
+</div>
+
+<!--
+<div id="post-list">
+  {% for post in site.posts %}
+    <div class="post-preview">
       <h2>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       </h2>
       <p>{{ post.excerpt | markdownify | strip_html | truncate: 200 }}</p>
       <p class="post-meta">
         <span>{{ post.date | date: "%B %d, %Y" }}</span>
-        {% if post.categories %}
-          |
-          <span>{{ post.categories | join: ", " }}</span>
-        {% endif %}
-        {% if post.pin %}
-          | <i class="fas fa-thumbtack"></i> Pinned
-        {% endif %}
       </p>
     </div>
   {% endfor %}
 </div>
+-->

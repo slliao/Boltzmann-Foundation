@@ -1,10 +1,24 @@
 ---
 ---
 //date and time
-.post-meta span:first-child {
-    font-size: 0.6em; /* Adjust this size as needed */
-    color: gray;
+.post-title-with-date {
+    display: flex;
+    align-items: center; /* Aligns date vertically with the title */
+    justify-content: space-between; /* Adds space between title and date */
+    font-size: 1.5em; /* Adjusts title size */
+    margin-bottom: 0.5em; /* Adds some space below the title */
 }
+
+.post-title-with-date a {
+    text-decoration: none; /* Removes underline from the title link */
+    color: #333; /* Adjusts title color */
+}
+.post-date {
+    font-size: 0.7em; /* Adjusts date size */
+    color: gray; /* Changes date color */
+    margin-left: 1em; /* Adds some space between title and date */
+}
+
 
 
 // Breakpoints
