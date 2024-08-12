@@ -1,5 +1,11 @@
 ---
 ---
+//date and time
+.post-meta span:first-child {
+    font-size: 0.6em; /* Adjust this size as needed */
+    color: gray;
+}
+
 
 // Breakpoints
 $large-breakpoint: 64em !default;
