@@ -13,6 +13,11 @@
     text-decoration: none; /* Removes underline from the title link */
     color: #063f8a; /* Adjusts title color */
 }
+.post-date-intitle {
+    font-size: 0.4em; /* Adjusts date size */
+    color: gray; /* Changes date color */
+    margin-left: 2em; /* Add space between title and date */
+}
 .post-date {
     font-size: 0.8em; /* Adjusts date size */
     color: gray; /* Changes date color */
