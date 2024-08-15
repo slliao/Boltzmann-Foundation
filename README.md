@@ -1,4 +1,4 @@
-# Boltzmann Club
+# Boltzmann Foundation
 2024
 
 <!--
