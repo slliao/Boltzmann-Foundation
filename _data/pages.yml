@@ -6,12 +6,12 @@ pages:
 - title: People
   url: people
 - title: Talk&Lean
-  url: talkandlearn
-#- title: Topic of the Week
-#  url: topic-of-week 
+  url: talk-learn
+- title: Topic of the Week
+  url: topic-of-week 
 - title: Blog
   url: blogpost
--title: Win Prizes 
+- title: Win Prizes 
   url: challenge
 - title: Links
   url: links
