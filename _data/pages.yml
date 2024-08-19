@@ -5,14 +5,14 @@ pages:
 #  url: news
 - title: People
   url: people
-#- title: Talk&Lean
-#  url: talk-learn
+- title: Talk&Lean
+  url: talkandlearn
 #- title: Topic of the Week
 #  url: topic-of-week 
 - title: Blog
   url: blogpost
 -title: Win Prizes 
-  url: challenge-win-prizes
+  url: challenge
 - title: Links
   url: links
 #- title: Download
