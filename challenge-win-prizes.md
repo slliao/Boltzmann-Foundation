@@ -1,5 +1,5 @@
 Challenges!
 -----------------------------
 
-__ ML for liquid simulations __
+__ML for liquid simulations__
 
