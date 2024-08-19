@@ -7,8 +7,8 @@ pages:
   url: people
 - title: Talk & Learn
   url: talk-learn
-- title: Topic of the Week
-  url: topic-of-week 
+- title: Topic of the Month
+  url: topic-of-month 
 - title: Blog
   url: blogpost
 - title: Challengs & Wins 
