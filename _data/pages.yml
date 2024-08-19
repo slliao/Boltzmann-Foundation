@@ -17,13 +17,13 @@ pages:
 #  url: https://plumed-school.github.io
 # - title: Forum
 #   url: forum
-#- title: Cite
-#  url: cite
-#- title: Funds
-#  url: funding
+- title: Topic of the Week
+  url: topic_of_week 
 - title: Blog
   url: blogpost
 #- title: Plumed
 #  url: https://www.plumed.org/
+-title: Win Prizes 
+  url: challenge_win_prizes
 - title: Links
   url: links

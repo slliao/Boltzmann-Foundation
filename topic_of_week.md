@@ -1,4 +1,4 @@
-How to cite PLUMED
+Metadyamics for RDF
 -----------------------------
 The development of the PLUMED open source library is not only the hard work of a few core developers, but also the collective effort of an entire community of users, developers, and contributors. In early 2019, we acknowledged this successfull working model by founding the [PLUMED consortium](http://www.plumed-nest.org/consortium.html). In this spirit, we kindly invite you to use the following (or equivalent) wording in any work published using PLUMED:
 
