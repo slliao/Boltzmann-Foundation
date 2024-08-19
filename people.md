@@ -1,9 +1,12 @@
-The team
+Members
 -----------------------------
 
-__Project leaders and core developers__
+__DISCOVERIST__
 
 * [Mark Liao](https://scholar.google.com/citations?user=Qx1TdSUAAAAJ&hl) 
+* [Dr. MD](http://people) (Taiwan)
+
+__EXPLORIST__
 * [New menber](http://people) (Taiwan)
 
 __Join Us__
