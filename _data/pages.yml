@@ -18,12 +18,12 @@ pages:
 # - title: Forum
 #   url: forum
 - title: Topic of the Week
-  url: topic_of_week 
+  url: topic-of-week 
 - title: Blog
   url: blogpost
 #- title: Plumed
 #  url: https://www.plumed.org/
 -title: Win Prizes 
-  url: challenge_win_prizes
+  url: challenge-win-prizes
 - title: Links
   url: links
