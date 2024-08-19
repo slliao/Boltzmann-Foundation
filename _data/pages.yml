@@ -23,5 +23,7 @@ pages:
 #  url: funding
 - title: Blog
   url: blogpost
-- title: Plumed
-  url: https://www.plumed.org/
+#- title: Plumed
+#  url: https://www.plumed.org/
+- title: Links
+  url: links
