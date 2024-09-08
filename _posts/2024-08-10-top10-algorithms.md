@@ -2,7 +2,7 @@
 title: Top 10 algorthims in 20 centry
 layout: post
 ---
-# Top 10 algorthims in 20 centry
+
 Very interesting [series](https://www.cs.fsu.edu/~lacher/courses/COT4401/notes/cise_v2_i1/index.html) on the top 10 algorithms with the greatest influence on the development and practice of science and engineering in the 20th century.
 
  - Metropolis Algorithm for Monte Carlo
